@@ -77,7 +77,8 @@ This module lets you connect to web services using SOAP.  It also provides a ser
 Install with [npm](http://github.com/isaacs/npm):
 
 ```
-  npm install soap
+  (before my fork is) npm install soap
+  (if use my fork) npm install https://github.com/Talnaj/node-soap/tarball/master
 ```
 
 ## Why can't I file an issue?
